@@ -1,69 +1,82 @@
-## Your Name
+<div align="center">
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+# Mantas Volkauskas - Software Developer
 
-## Projects
+[About Me](#about-me) | [Tech Skills](#tech-skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
+</div>
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+## <a name="about-me">About Me</a>
 
-## Work Experience
+Hello! I'm Mantas, a full-stack software developer with a background in engineering and seven years of diverse experience in the retail industry. My expertise includes customer-facing interactions, as well as behind-the-scenes work with suppliers, packaging, and data management. With a unique perspective on software development, I am known for being innovative, adaptable, process-driven, detail-oriented, and passionate about collaborating with diverse teams and clients to bring great ideas to life through the power of software.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+As someone who is always eager to learn and grow, I am excited to bring my passion for web development to every project I work on. My background in engineering and data analysis has equipped me with the skills to produce simple solutions for complex problems, while consistently delivering high-quality, test-driven code. I thrive on learning through hands-on experience and embrace the philosophy of failing fast to learn quickly, using programming as a platform for continuous growth and improvement.
 
 
-Here's an example
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+## <a name="tech-skills">Tech Skills</a>
 
-#### Another skill
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Javascript-f7e968?style=for-the-badge&logo=javascript&logoColor=f7e968&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Node.js-80D857?style=for-the-badge&logo=node.js&logoColor=80D857&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Ruby-FF6A55?style=for-the-badge&logo=ruby&logoColor=FF6A55&labelColor=282828">
+  <br>
+  
+  <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FF5733&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-559DFF?style=for-the-badge&logo=css3&logoColor=559DFF&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Cypress-3b3938?style=for-the-badge&logo=cypress&logoColor=faf2ed&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828"> 
+  <img src="https://img.shields.io/badge/-RSpec-F05892?style=for-the-badge&logo=ruby&logoColor=F05892&labelColor=282828">
+  <br>
+  
+  <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&logoColor=51A940&labelColor=282828">
+  <img src="https://img.shields.io/badge/-PostgreSQL-3b3938?style=for-the-badge&logo=postgresql&logoColor=faf2ed&labelColor=282828">
+</div>
+</p>
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+## <a name="projects">Projects</a>
 
-#### Another skill
+| Name                            | Description       | Tech/tools        |
+| ------------------------------  | ----------------- | ----------------- |
+| **Enaidle**  | A social platform for charitable organisations to connect with individuals who want to help and don't know how. | MERN stack (MongoDB, Express, React, Node), Cypress, Jest |
+| **Acebook**    | An experimental social media app. Worked with a partially-built legacy codebase and added features for improvement. | MERN stack (MongoDB, Express, React, Node), Cypress, Jest             |
+| **MakersBnB**   | A bed and breakfast bookings app. | Ruby, RSpec, Sinatra, PostgreSQL              |
 
+## <a name="education">Education</a>
 
-## Education
+#### Makers Academy (November 2022 to March 2023)
+- Developed proficiency in test-driven development, writing meaningful unit tests and integration tests to ensure software quality and maintainability.
+- Experienced in working with Agile team methodologies such as Scrum, participating and running daily stand-ups, sprint planning, and retros to encourage continuous improvement in developer process and emotional intelligence across the team.
+- Knowledgeable in Git branch-PR-merge workflow and conducting code reviews, developed through team-working and extensive pair programming to ensure coding standards and best practices.
+- Developed the ability to determine project requirements by highlighting key user stories, defining an MVP, and iterating to build features and meet client needs.
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### University of Surrey (September 2015 to August 2020)
 
-#### Your University / College (start_date to end_date)
+- Bachelor of Engineering: Civil Engineering
+- Utilised MATLAB language to solve complex civil engineering problems in multiple modules including sustainable transportation and structural analysis.
+- Awarded full colours from the university for services to the rowing club, through sporting merit, leadership (captained the squad for two years), and contribution to a very successful club committee.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+## <a name="work-experience">Work Experience</a>
 
-#### Any other qualifications
+**Waitrose and Partners** (April 2018 to current)  
+_Customer Assistant_
 
-That in some arguable way make you a better software developer or well-rounded person
+- Contributed to a very efficiently operating team and have played a key role in the success of the BWS department through extensive product knowledge and thorough working processes.
+- Recommended products to customers to drive sales.
+- Maintained an upbeat, positive attitude in a busy customer-focused environment, developed a strong rapport with customers and created a positive impression of the business.
 
-## Hobbies
+**Marks & Spencer** (September 2013 to May 2015)  
+_International Packaging Admin_
 
-Any cool stuff that makes you a super part of a software development team
+- Led projects and analysed data to identify opportunities for improvement utilising data visualisation tools to effectively communicate insights.
+- Drove operational improvements such as automating how packaging data is processed (using VBA macros) which resulted in significant time and cost savings.
+- Worked on cost-saving projects, for example in one I developed an algorithm to calculate savings of reducing whitespace on care-label and ticketing materials.
+- Conducted tutorial classes for co-workers to provide support in automation and processing large sets of Excel data.
+- Worked with cross-cultural, global suppliers and tech team to modernise a legacy fabric supplier database and platform, introducing a premium service to encourage supplier visibility amongst purchasing departments within the business.
+
+## <a name="hobbies">Hobbies</a>
+
+- **Rowing**: My other passion. After picking it up at uni, I joined Molesey BC, one of the UK's high-performance centres training full-time 2-3 times a day and qualified to compete at some international club regattas. I still keep up with it recreationally because there is nothing quite like cutting some glass on the River Thames on a crisp Saturday morning!
+- **Sports**: Cycling, Running, Weightlifting, anything which allows me to push my body to its limits. I love using my wearable tech (WHOOP) to optimise this process - can't manage what you can't measure!
+- **Tech News**: Subscriber of New Scientist, and I try to keep up with all things science, technology, and environment.
