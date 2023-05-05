@@ -39,7 +39,7 @@ As someone who is always eager to learn and grow, I am excited to bring my passi
 
 | Name                            | Description       | Tech/tools        |
 | ------------------------------  | ----------------- | ----------------- |
-| **Regimate**   | A training log for strength & conditioning workouts. | MERN stack (MongoDB, Express, React, Node), Jest, MaterialUI |
+| **[Regimate](https://github.com/mantaslv/regimate-react)**   | A training log for strength & conditioning workouts. Deployed [here](https://regimate.netlify.app/). | MERN stack (MongoDB, Express, React, Node), Jest, MaterialUI |
 | **Enaidle**  | A social platform for charitable organisations to connect with individuals who want to help and don't know how. | MERN stack, Cypress, Jest |
 | **Acebook**    | An experimental social media app. Worked with a partially-built legacy codebase and added features for improvement. | MERN stack, Cypress, Jest             |
 | **MakersBnB**   | A bed and breakfast bookings app. | Ruby, RSpec, Sinatra, PostgreSQL              |
