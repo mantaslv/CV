@@ -59,6 +59,7 @@ As someone who is always eager to learn and grow, I am excited to bring my passi
 - Took on new tasks and responsibilities outside of my usual role while moving from team to team in the packaging department at M&S. I brought my tech skills to each team and identified ways to best support them, showing my ability to adapt to different environments and work collaboratively with various stakeholders.
 ### Problem Solving
 - During my first project at Makers, MakersBnb, I was part of the smallest group in the cohort with a short project timeline of 1 week. I suggested using a small MVP approach, which allowed us to focus on the core functionalities and prioritize our tasks effectively. As a result, we were able to deliver the most functional project within the given timeframe.
+- Identified that data processing was a major bottleneck for our department at M&S and presented a plan to my manager outlining a solution. This involved automating processes using macros and also running Excel tutorial sessions for the department. Took the initiative to learn VBA and successfully implemented the macros, which resulted in a significant increase in efficiency. Additionally, the tutorial classes improved the overall productivity of the team.
 ### Time Management
 - Successfully completed three projects at Makers by utilizing project management tools such as JIRA and T-shirt sizing to prioritize workloads, estimate task complexity and effort required, and ensure timely delivery of high-quality work.
 
