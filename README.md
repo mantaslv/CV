@@ -37,6 +37,7 @@ As someone who is always eager to learn and grow, I am excited to bring my passi
 </p>
 
 ## <a name="projects">Projects</a>
+I am currently working on Regimate and also continuing my Makers final project, Enaidle, as part of a team.
 
 | Name                            | Description       | Tech/tools        |
 | ------------------------------  | ----------------- | ----------------- |
