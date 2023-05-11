@@ -41,9 +41,9 @@ As someone who is always eager to learn and grow, I am excited to bring my passi
 | Name                            | Description       | Tech/tools        |
 | ------------------------------  | ----------------- | ----------------- |
 | **[Regimate](https://github.com/mantaslv/regimate-react)**   | A training log for strength & conditioning workouts. Deployed [here](https://regimate.netlify.app/). | MERN stack (MongoDB, Express, React, Node.js), Jest, MaterialUI |
-| **Enaidle**  | A social platform for charitable organisations to connect with individuals who want to help and don't know how. | MERN stack, Cypress, Jest |
-| **Acebook**    | An experimental social media app. Worked with a partially-built legacy codebase and added features for improvement. | MERN stack, Cypress, Jest             |
-| **MakersBnB**   | A bed and breakfast bookings app. | Ruby, RSpec, Sinatra, PostgreSQL              |
+| **[Enaidle](https://github.com/mantaslv/Enaidle)**  | A social platform for charitable organisations to connect with individuals who want to help and don't know how. | MERN stack, Cypress, Jest |
+| **[Acebook](https://github.com/murat-zsertay/acebook-the-crown-jewels)**    | An experimental social media app. Worked with a partially-built legacy codebase and added features for improvement. | MERN stack, Cypress, Jest             |
+| **[MakersBnB](https://github.com/nadiangelica/makersbnb-ruby-seed)**   | A bed and breakfast bookings app. | Ruby, RSpec, Sinatra, PostgreSQL              |
 
 ## <a name="skills">Skills</a>
 #### Communication
