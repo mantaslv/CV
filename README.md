@@ -52,7 +52,6 @@ As someone who is always eager to learn and grow, I am excited to bring my passi
 - Led the project to modernize a legacy fabric supplier database and platform, collaborating directly with cross-cultural, global suppliers and the tech team to ensure successful implementation of the new platform.
 ### Teamwork and Leadership
 - Led an agile team project at Makers, overseeing daily standups, retrospectives, and sprint planning sessions, ensuring that each team member had clear roles and responsibilities, and fostering a collaborative and supportive team culture.
-- Demonstrated strong teamwork skills during my time at M&S, working closely with colleagues across multiple departments to ensure the successful completion of a company-wide project, which resulted in a significant increase in sales revenue.
 - Mentored more junior developers than myself at Makers, providing guidance and support in their learning journey, helping them to overcome obstacles, and fostering a positive and inclusive team dynamic.
 ### Adaptability
 - Adapted to a new tech stack (MERN) and a legacy codebase while working on the Acebook project with a large team at makers in a short amount of time. When the team encountered a blocker, I suggested a combination of individual reading and hands-on feature building to help everyone get up to speed. By striking a balance between these approaches, I demonstrated my adaptability techniques and helped the team overcome the challenge.
