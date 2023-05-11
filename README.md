@@ -40,7 +40,7 @@ As someone who is always eager to learn and grow, I am excited to bring my passi
 
 | Name                            | Description       | Tech/tools        |
 | ------------------------------  | ----------------- | ----------------- |
-| **[Regimate](https://github.com/mantaslv/regimate-react)**   | A training log for strength & conditioning workouts. Deployed [here](https://regimate.netlify.app/). | MERN stack (MongoDB, Express, React, Node), Jest, MaterialUI |
+| **[Regimate](https://github.com/mantaslv/regimate-react)**   | A training log for strength & conditioning workouts. Deployed [here](https://regimate.netlify.app/). | MERN stack (MongoDB, Express, React, Node.js), Jest, MaterialUI |
 | **Enaidle**  | A social platform for charitable organisations to connect with individuals who want to help and don't know how. | MERN stack, Cypress, Jest |
 | **Acebook**    | An experimental social media app. Worked with a partially-built legacy codebase and added features for improvement. | MERN stack, Cypress, Jest             |
 | **MakersBnB**   | A bed and breakfast bookings app. | Ruby, RSpec, Sinatra, PostgreSQL              |
@@ -54,6 +54,9 @@ As someone who is always eager to learn and grow, I am excited to bring my passi
 - Led an agile team project at Makers, overseeing daily standups, retrospectives, and sprint planning sessions, ensuring that each team member had clear roles and responsibilities, and fostering a collaborative and supportive team culture.
 - Demonstrated strong teamwork skills during my time at M&S, working closely with colleagues across multiple departments to ensure the successful completion of a company-wide project, which resulted in a significant increase in sales revenue.
 - Mentored more junior developers than myself at Makers, providing guidance and support in their learning journey, helping them to overcome obstacles, and fostering a positive and inclusive team dynamic.
+### Adaptability
+- Adapted to a new tech stack (MERN) and a legacy codebase while working on the Acebook project with a large team at makers in a short amount of time. When the team encountered a blocker, I suggested a combination of individual reading and hands-on feature building to help everyone get up to speed. By striking a balance between these approaches, I demonstrated my adaptability techniques and helped the team overcome the challenge.
+- Took on new tasks and responsibilities outside of my usual role while moving from team to team in the packaging department at M&S. I brought my tech skills to each team and identified ways to best support them, showing my ability to adapt to different environments and work collaboratively with various stakeholders.
 ### Time Management
 - Successfully completed three projects at Makers by utilizing project management tools such as JIRA and T-shirt sizing to prioritize workloads, estimate task complexity and effort required, and ensure timely delivery of high-quality work.
 
