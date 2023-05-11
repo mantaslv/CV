@@ -62,6 +62,8 @@ As someone who is always eager to learn and grow, I am excited to bring my passi
 - Identified that data processing was a major bottleneck for our department at M&S and presented a plan to my manager outlining a solution. This involved automating processes using macros and also running Excel tutorial sessions for the department. Took the initiative to learn VBA and successfully implemented the macros, which resulted in a significant increase in efficiency. Additionally, the tutorial classes improved the overall productivity of the team.
 ### Time Management
 - Successfully completed three projects at Makers by utilizing project management tools such as JIRA and T-shirt sizing to prioritize workloads, estimate task complexity and effort required, and ensure timely delivery of high-quality work.
+### Attention to Detail
+- Displayed strong attention to detail through the use of code reviews at Makers. Consistently reviewed my own code and the code of my peers, giving constructive feedback and ensuring that our code met high quality standards. This process allowed us to catch errors and bugs early on, leading to more efficient development and a better end product.
 
 ## <a name="education">Education</a>
 
