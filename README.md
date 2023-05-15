@@ -7,11 +7,9 @@
 
 ## <a name="about-me">About Me</a>
 
-Hello! I'm Mantas, a full-stack software developer with a background in engineering and seven years of diverse experience in the retail industry. My expertise includes customer-facing interactions, as well as behind-the-scenes work with suppliers, packaging, and data management. With a unique perspective on software development, I am known for being innovative, adaptable, process-driven, detail-oriented, and passionate about collaborating with diverse teams and clients to bring great ideas to life through the power of software.
+Hello! I'm Mantas, a full-stack software developer boasting a solid engineering background and seven years of extensive experience in the retail sector. My professional journey involves myriad customer-centric roles, along with data management, packaging, and supplier coordination. Known for my innovative mindset, adaptability, attention to detail, and process-driven approach, I take pride in collaborating with diverse teams and clients, transforming ideas into reality through the power of software.
 
-As someone who is always eager to learn and grow, I am excited to bring my passion for web development to every project I work on. My background in engineering and data analysis has equipped me with the skills to produce simple solutions for complex problems, while consistently delivering high-quality, test-driven code. I thrive on learning through hands-on experience and embrace the philosophy of failing fast to learn quickly, using programming as a platform for continuous growth and improvement.
-
-
+My eagerness to continually learn and grow fuels my passion for web development, which is reflected in every project I undertake. Leveraging my engineering and data analysis background, I excel at devising simple solutions to intricate problems and delivering top-notch, test-driven code. I firmly believe in learning through practical experience and embrace the principle of failing fast to learn quickly, using programming as a platform for continuous evolution and improvement.
 
 ## <a name="tech-skills">Tech Skills</a>
 
@@ -37,7 +35,7 @@ As someone who is always eager to learn and grow, I am excited to bring my passi
 </p>
 
 ## <a name="projects">Projects</a>
-I am currently working on Regimate and also continuing my Makers final project, Enaidle, as part of a team.
+Currently, I am busy working on Regimate and also extending my final project at Makers, Enaidle, as part of a team.
 
 | Name                            | Description       | Tech/tools        |
 | ------------------------------  | ----------------- | ----------------- |
@@ -102,4 +100,4 @@ _International Packaging Admin_
 
 - **Rowing**: My other passion. After picking it up at uni, I joined Molesey BC, one of the UK's high-performance centres training full-time 2-3 times a day and qualified to compete at some international club regattas. I still keep up with it recreationally because there is nothing quite like cutting some glass on the River Thames on a crisp Saturday morning!
 - **Sports**: Cycling, Running, Weightlifting, anything which allows me to push my body to its limits. I love using my wearable tech (WHOOP) to optimise this process - can't manage what you can't measure!
-- **Tech News**: Subscriber of New Scientist, and I try to keep up with all things science, technology, and environment.
+- **Tech News**: I am an avid subscriber of New Scientist and aim to stay up-to-date with the latest advancements in science, technology, and environmental sectors. This constant thirst for knowledge and the curiosity to explore how new technological advancements can shape our future is something that keeps me motivated and excited about my work in the tech industry.
