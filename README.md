@@ -7,9 +7,9 @@
 
 ## <a name="about-me">About Me</a>
 
-Hello! I'm Mantas, a full-stack software developer boasting a solid engineering background and seven years of extensive experience in the retail sector. My professional journey involves myriad customer-centric roles, along with data management, packaging, and supplier coordination. Known for my innovative mindset, adaptability, attention to detail, and process-driven approach, I take pride in collaborating with diverse teams and clients, transforming ideas into reality through the power of software.
+Hello! I'm Mantas, a full-stack software developer boasting a solid engineering background and seven years of extensive experience in the retail sector. My professional journey involves a myriad of customer-centric roles, along with data management, packaging, and supplier coordination. Known for my innovative mindset, adaptability, attention to detail, and process-driven approach, I take pride in collaborating with diverse teams and clients, transforming ideas into reality through the power of software.
 
-My eagerness to continually learn and grow fuels my passion for web development, which is reflected in every project I undertake. Leveraging my engineering and data analysis background, I excel at devising simple solutions to intricate problems and delivering top-notch, test-driven code. I firmly believe in learning through practical experience and embrace the principle of failing fast to learn quickly, using programming as a platform for continuous evolution and improvement.
+My eagerness to continually learn and grow fuels my passion for web development, which is reflected in every project I undertake. Leveraging my engineering and data analysis background, I excel at devising simple solutions to intricate problems and delivering high-quality, test-driven code. I firmly believe in learning through practical experience and embrace the principle of failing fast to learn quickly, using programming as a platform for continuous evolution and improvement.
 
 ## <a name="tech-skills">Tech Skills</a>
 
