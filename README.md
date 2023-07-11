@@ -35,7 +35,7 @@ My eagerness to continually learn and grow fuels my passion for web development,
 </p>
 
 ## <a name="projects">Projects</a>
-Currently, I am busy working on Regimate and also extending my final project at Makers, Enaidle, as part of a team.
+I am learning Python to work with large datasets and explore machine learning techniques, while also contributing to Regimate and extending my final project at Makers, Enaidle.
 
 | Name                            | Description       | Tech/tools        |
 | ------------------------------  | ----------------- | ----------------- |
