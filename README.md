@@ -35,7 +35,7 @@ Having sharpened my technical skills at Makers Academy, I am now eager to apply 
 </p>
 
 ## <a name="projects">Projects</a>
-I am learning Python to work with large datasets and explore machine learning techniques, while also contributing to Regimate and extending my final project at Makers, Enaidle.
+I am learning Python to work with large datasets and explore machine learning techniques, while also building Regimate to further fortify my web development skills learned with Makers.
 
 | Name                            | Description       | Tech/tools        |
 | ------------------------------  | ----------------- | ----------------- |
