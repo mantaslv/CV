@@ -1,15 +1,13 @@
 <div align="center">
 
-# Mantas Volkauskas - Software Developer
+# Mantas Volkauskas - Full-Stack Software Developer
 
 [About Me](#about-me) | [Tech Skills](#tech-skills) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
 </div>
 
 ## <a name="about-me">About Me</a>
 
-Hello! I'm Mantas, a software engineer fresh from completing the Makers Academy bootcamp, where I honed my skills and prepared myself to transition fully into the tech landscape. Prior to pursuing my educational background in civil engineering, I gained rich experiences in data analytics and fostered important customer and supplier relationships in the retail sector. Though my engineering degree provided a strong foundation, it was the dynamic and innovative realm of software development that truly captured my engineering spirit, steering me towards a path filled with endless freedom for creating innovative solutions.
-
-Having sharpened my technical skills at Makers Academy, I am now eager to apply my software engineering acumen to solve real-world problems. The bootcamp experience reinforced my belief in the power of collaborative learning and iterative development. I am particularly interested in crafting clean, test-driven code to create intuitive user interfaces and efficient backend systems. As I venture deeper into the tech landscape, I am excited about embracing new challenges, learning from seasoned professionals, and contributing to projects that drive meaningful impact. Through my blend of engineering discipline and newfound software development skills, I am ready to contribute fresh perspectives and innovative solutions in my next professional chapter.
+Hello! I'm Mantas, a solutions-oriented and deeply driven Full-Stack Software Developer with a passion for building innovative web applications, accentuated by comprehensive training from the esteemed Makers Academy Bootcamp. With a background in civil engineering, enriched by several years of experience in data analytics and managing customer and supplier relationships in the retail sector, my journey equips me with a multifaceted perspective, enabling innovative problem-solving that bridges diverse industries. As I further embrace the transformative power of technology, I remain committed to developing high-quality, test-driven solutions and fostering innovation within dynamic tech teams.
 
 ## <a name="tech-skills">Tech Skills</a>
 
@@ -19,91 +17,63 @@ Having sharpened my technical skills at Makers Academy, I am now eager to apply 
   <img src="https://img.shields.io/badge/-Node.js-80D857?style=for-the-badge&logo=node.js&logoColor=80D857&labelColor=282828">
   <img src="https://img.shields.io/badge/-Ruby-FF6A55?style=for-the-badge&logo=ruby&logoColor=FF6A55&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-ffd43b?style=for-the-badge&logo=python&logoColor=ffd43b&labelColor=306998">
-  <br>
-
   <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828">
-  <img src="https://img.shields.io/badge/-mui-0081CB?style=for-the-badge&logo=mui&logoColor=0081CB&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Django-0C4B33?style=for-the-badge&logo=django&logoColor=0C4B33&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=282828">
   <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FF5733&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-559DFF?style=for-the-badge&logo=css3&logoColor=559DFF&labelColor=282828">
-  <br>
-  
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff&labelColor=282828">
   <img src="https://img.shields.io/badge/-Cypress-3b3938?style=for-the-badge&logo=cypress&logoColor=faf2ed&labelColor=282828">
   <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828"> 
   <img src="https://img.shields.io/badge/-RSpec-F05892?style=for-the-badge&logo=ruby&logoColor=F05892&labelColor=282828">
-  <img src="https://img.shields.io/badge/-PyTest-009fe3?style=for-the-badge&logo=pytest&logoColor=009fe3&labelColor=282828">
-  <br>
-  
-  <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&logoColor=51A940&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Unittest-3178C6?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=282828">
   <img src="https://img.shields.io/badge/-PostgreSQL-3b3938?style=for-the-badge&logo=postgresql&logoColor=faf2ed&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Selenium-42b029?style=for-the-badge&logo=selenium&logoColor=42b029&labelColor=282828">
+  <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&logoColor=51A940&labelColor=282828">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ffffff&labelColor=282828">
+  <img src="https://img.shields.io/b
+
+adge/-Github%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff&labelColor=282828">
 </div>
 </p>
 
 ## <a name="projects">Projects</a>
-Building Regimate to further fortify my web development skills learned with Makers. I am also exploring machine-learning techniques in Python through the platform Kaggle.
 
-| Name                            | Description       | Tech/tools        |
-| ------------------------------  | ----------------- | ----------------- |
-| **[Regimate](https://github.com/mantaslv/regimate-react)**   | A strength & conditioning programming app. Deployed [here](https://regimate.netlify.app/). | MERN stack (MongoDB, Express, React, Node.js), Jest, MaterialUI |
-| **[Forebet Scraper](https://github.com/mantaslv/forebet-scraper)** | Scrapes the popular betting prediction website and stores it in json files. | Python, Selenium |
-| **[Enaidle](https://github.com/mantaslv/Enaidle)**  | A social platform for charitable organisations to connect with individuals who want to help and don't know how. | MERN stack, Cypress, Jest |
-| **[Acebook](https://github.com/murat-zsertay/acebook-the-crown-jewels)**    | An experimental social media app. Worked with a partially built legacy codebase and added features for improvement. | MERN stack, Cypress, Jest             |
-| **[MakersBnB](https://github.com/nadiangelica/makersbnb-ruby-seed)**   | A bed and breakfast bookings app. | Ruby, RSpec, Sinatra, PostgreSQL              |
+- **Regimate**: A fully deployed training scheduling web app built as an individual project after Makers. Utilises contexts and reducers for complex state management and MaterialUI for a sleek, user-friendly interface. Built with the MERN stack - MongoDB, Express, React, Node.js.
+- **Enaidle**: Developed as part of an Agile team during my final project at Makers, this platform serves charitable organisations. It showcases proficiency in the MERN stack, responsive design with Bootstrap, and thorough testing with tools like Cypress and Jest.
+- **Acebook**: An experimental social media app also built with MERN. Worked with a partially-built legacy codebase and added features for improvement.
+- **MakersBnB**: A bed and breakfast bookings app built with Ruby, RSpec, Sinatra, and PostgreSQL.
 
 ## <a name="skills">Skills</a>
-#### Communication
-- Presented technical concepts and project demonstrations to technical and non-technical audiences during the final project at Makers Bootcamp.
-- Taught Excel tutorial classes to the entire department at M&S, effectively communicating complex information clearly and understandably.
-- Led the project to modernize a legacy fabric supplier database and platform, collaborating directly with cross-cultural, global suppliers and the tech team to ensure successful implementation of the new platform.
-#### Teamwork and Leadership
-- During my time at Makers, I worked on several team agile projects and took turns leading daily standups, retrospectives, and sprint planning sessions. These experiences allowed me to ensure that each team member had clear roles and responsibilities while fostering a collaborative and supportive team culture.
-- At Makers, I mentored developers who were more junior than me, providing guidance and support in their learning journey, helping them to overcome obstacles, and fostering a positive and inclusive team dynamic.
-#### Adaptability
-- Adapted to a new tech stack (MERN) and a legacy codebase while working on the Acebook project with a large team at Makers in a short amount of time. When the team encountered a blocker, I suggested a combination of individual reading and hands-on feature building to help everyone get up to speed. By striking a balance between these approaches, I demonstrated my adaptability techniques and helped the team overcome the challenge.
-- Took on new tasks and responsibilities outside of my usual role while moving from team to team in the packaging department at M&S. I brought my tech skills to each team and identified ways to best support them, showing my ability to adapt to different environments and work collaboratively with various stakeholders.
-#### Problem-Solving
-- During my first project at Makers, MakersBnB, I was part of the smallest group in the cohort with a short project timeline of 1 week. I suggested using a small MVP approach, which allowed us to focus on the core functionalities and prioritize our tasks effectively. As a result, we were able to deliver the most functional project within the given timeframe.
-- Identified that data processing was a major bottleneck for our department at M&S and presented a plan to my manager outlining a solution. This involved automating processes using macros and also running Excel tutorial sessions for the department. Took the initiative to learn VBA and successfully implemented the macros, which resulted in a significant increase in efficiency. Additionally, the tutorial classes improved the overall productivity of the team.
-#### Time Management
-- Successfully completed three projects at Makers by utilizing project management tools such as JIRA and T-shirt sizing to prioritize workloads, estimate task complexity and effort required, and ensure timely delivery of high-quality work.
-#### Attention to Detail
-- Displayed strong attention to detail through the use of code reviews at Makers. I have consistently reviewed my own code and the code of my peers, giving constructive feedback and ensuring that our code met high-quality standards. This process allowed us to catch errors and bugs early on, leading to more efficient development and a better end product.
+
+- **Communication**: Articulate in presenting technical concepts and project demos to diverse audiences, proven during final projects at Makers.
+- **Teamwork and Leadership**: Led Agile teams, mentoring junior developers, and fostering a collaborative environment.
+- **Adaptability**: Quickly adapted to new tech stacks and environments, demonstrating flexibility in learning and project execution.
+- **Problem-Solving**: Employed a pragmatic approach with an MVP focus to deliver functional projects within tight deadlines.
+- **Time Management**: Utilized tools like JIRA for effective project management and timely delivery.
+- **Attention to Detail**: Ensured code quality through diligent reviews and feedback, upholding high standards in development.
 
 ## <a name="education">Education</a>
 
-#### Makers Academy (November 2022 to March 2023)
-- Developed proficiency in test-driven development, writing meaningful unit tests and integration tests to ensure software quality and maintainability.
-- Experienced in working with Agile team methodologies such as Scrum, participating and running daily stand-ups, sprint planning, and retros to encourage continuous improvement in developer process and emotional intelligence across the team.
-- Knowledgeable in Git branch-PR-merge workflow and conducting code reviews, developed through teamwork and extensive pair programming to ensure coding standards and best practices.
-- Developed the ability to determine project requirements by highlighting key user stories, defining an MVP, and iterating to build features and meet client needs.
+#### Makers Academy, Full Stack Software Development Bootcamp (Nov 2022 – Mar 2023)
+- Specialized in full-stack application development, Agile methodologies, and test-driven development.
+- Enhanced and adapted existing codebases through debugging and feature additions.
+- Cultivated expertise in software development principles, database design, and design patterns.
 
-#### University of Surrey (September 2015 to August 2020)
-
-- Bachelor of Engineering: Civil Engineering
-- Utilised MATLAB language to solve complex civil engineering problems in multiple modules including sustainable transportation and structural analysis.
-- Awarded full colours from the university for services to the rowing club, through sporting merit, leadership (captained the squad for two years), and contribution to a very successful club committee.
+#### University of Surrey, Bachelor of Engineering: Civil Engineering (2015 – 2020)
+- Applied advanced algorithms with MATLAB language for structural analysis.
+- Successfully assessed urban job accessibility, combining MATLAB simulations with GIS mapping.
 
 ## <a name="work-experience">Work Experience</a>
 
-**Waitrose and Partners** (April 2018 to current)  
-_Customer Assistant_
+**Supermarket Assistant/Customer Delivery Driver, Waitrose (Apr 2018 – present)**
+- Utilized product knowledge to drive sales and contribute to team efficiency, establishing strong customer rapport.
 
-- Contributed to a highly effective team that achieved the highest operating profit margin in the entire organization.
-- Played a key role in the success of the BWS department through extensive product knowledge and thorough working processes.
-- Recommended products to customers to drive sales.
-- Maintained an upbeat, positive attitude in a busy customer-focused environment, developed a strong rapport with customers and created a positive impression of the business.
-
-**Marks & Spencer** (September 2013 to May 2015)  
-_International Packaging Admin_
-
-- Led projects and analysed data to identify opportunities for improvement utilising data visualisation tools to effectively communicate insights.
-- Drove operational improvements such as automating how packaging data is processed (using VBA macros) which resulted in significant time and cost savings.
-- Worked on cost-saving projects, for example in one I developed an algorithm to calculate savings of reducing whitespace on care-label and ticketing materials.
-- Conducted tutorial classes for co-workers to provide support in automation and processing large sets of Excel data.
-- Worked with cross-cultural, global suppliers and tech team to modernise a legacy fabric supplier database and platform, introducing a premium service to encourage supplier visibility amongst purchasing departments within the business.
+**International Packaging Admin, Marks and Spencer (Sep 2013 – May 2015)**
+- Led data-driven projects to optimize business processes and conducted data analysis to improve operations, including automating tasks with VBA macros.
+- Innovated an algorithm for minimizing whitespace on care-label and ticketing materials, resulting in cost savings.
 
 ## <a name="hobbies">Hobbies</a>
 
-- **Rowing**: My other passion. After picking it up at uni, I joined Molesey BC, one of the UK's high-performance centres training full-time 2-3 times a day and qualified to compete at some international club regattas. I still keep up with it recreationally because there is nothing quite like cutting some glass on the river on a crisp Saturday morning!
-- **Sports**: Cycling, Running, Weightlifting, anything which allows me to push my body to its limits. I love using my wearable tech to optimise this process - can't manage what you can't measure!
-- **Tech News**: I like to keep up with the latest advancements in science, technology, and environmental sectors through podcasts, newsletters and my subscription to the New Scientist.
+- **Rowing**: Competed at international club regattas and continue to enjoy it recreationally.
+- **Sports**: Enthusiastic about cycling, running, weightlifting, and optimizing performance with wearable tech.
+- **Tech News**: Stay updated on the latest in science, technology, and environmental sectors through various media.
