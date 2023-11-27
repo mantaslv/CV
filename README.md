@@ -45,7 +45,7 @@ Building Regimate to further fortify my web development skills learned with Make
 | Name                            | Description       | Tech/tools        |
 | ------------------------------  | ----------------- | ----------------- |
 | **[Regimate](https://github.com/mantaslv/regimate-react)**   | A strength & conditioning programming app. Deployed [here](https://regimate.netlify.app/). | MERN stack (MongoDB, Express, React, Node.js), Jest, MaterialUI |
-| [Forebet Scraper]() | Scrapes the popular betting prediction website and stores it in json files. | Python, Selenium |
+| **[Forebet Scraper](https://github.com/mantaslv/forebet-scraper)** | Scrapes the popular betting prediction website and stores it in json files. | Python, Selenium |
 | **[Enaidle](https://github.com/mantaslv/Enaidle)**  | A social platform for charitable organisations to connect with individuals who want to help and don't know how. | MERN stack, Cypress, Jest |
 | **[Acebook](https://github.com/murat-zsertay/acebook-the-crown-jewels)**    | An experimental social media app. Worked with a partially built legacy codebase and added features for improvement. | MERN stack, Cypress, Jest             |
 | **[MakersBnB](https://github.com/nadiangelica/makersbnb-ruby-seed)**   | A bed and breakfast bookings app. | Ruby, RSpec, Sinatra, PostgreSQL              |
