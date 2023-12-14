@@ -15,6 +15,7 @@ Having sharpened my technical skills at Makers Academy, I am now eager to apply 
 
 <p>
 <div align="center">
+  <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc&labelColor=282828">
   <img src="https://img.shields.io/badge/-Javascript-f7e968?style=for-the-badge&logo=javascript&logoColor=f7e968&labelColor=282828">
   <img src="https://img.shields.io/badge/-Node.js-80D857?style=for-the-badge&logo=node.js&logoColor=80D857&labelColor=282828">
   <img src="https://img.shields.io/badge/-Ruby-FF6A55?style=for-the-badge&logo=ruby&logoColor=FF6A55&labelColor=282828">
@@ -44,9 +45,9 @@ Building Regimate to further fortify my web development skills learned with Make
 
 | Name                            | Description       | Tech/tools        |
 | ------------------------------  | ----------------- | ----------------- |
-| **[Regimate](https://github.com/mantaslv/regimate-react)** | A fully deployed training scheduling web app built as an individual project after Makers. Utilises contexts and reducers for complex state management and MaterialUI for a sleek, user-friendly interface. Deployed [here](https://regimate.netlify.app/). | MERN stack (MongoDB, Express, React, Node.js), Jest, MaterialUI |
+| **[Regimate](https://github.com/mantaslv/regimate-react)** | A fully deployed training scheduling web app built as an individual project after Makers. Utilises contexts and reducers for complex state management, Drag'n'Drop functions and MaterialUI for a sleek, user-friendly interface. Deployed [here](https://regimate.netlify.app/). | Typescript, React & MaterialUI on the frontend. MongoDB, Express & Node.js on the back. |
 | **[Forebet Scraper](https://github.com/mantaslv/forebet-scraper)** | Scrapes the popular betting prediction website and stores it in json files. | Python, Selenium |
-| **[Enaidle](https://github.com/mantaslv/Enaidle)**  | Developed as part of an Agile team during my final project at Makers, this platform serves charitable organisations. | MERN stack, Cypress, Jest |
+| **[Enaidle](https://github.com/mantaslv/Enaidle)**  | Developed as part of an Agile team during my final project at Makers, this platform serves charitable organisations. | MERN stack (MongoDB, Express, React, Node.js), Cypress, Jest |
 | **[Acebook](https://github.com/murat-zsertay/acebook-the-crown-jewels)**    | An experimental social media app. Worked with a partially built legacy codebase and added features for improvement. | MERN stack, Cypress, Jest             |
 | **[MakersBnB](https://github.com/nadiangelica/makersbnb-ruby-seed)**   | A bed and breakfast bookings app. | Ruby, RSpec, Sinatra, PostgreSQL              |
 
