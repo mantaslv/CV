@@ -1,15 +1,17 @@
 <div align="center">
 
-# Mantas Volkauskas - Software Developer
+# Mantas Volkauskas - Software/QA Engineer
 
 [About Me](#about-me) | [Tech Skills](#tech-skills) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
 </div>
 
 ## <a name="about-me">About Me</a>
 
-Hello! I'm Mantas, a software engineer fresh from completing the Makers Academy bootcamp, where I honed my skills and prepared myself to transition fully into the tech landscape. Prior to pursuing my educational background in civil engineering, I gained rich experiences in data analytics and fostered important customer and supplier relationships in the retail sector. Though my engineering degree provided a strong foundation, it was the dynamic and innovative realm of software development that truly captured my engineering spirit, steering me towards a path filled with endless freedom for creating innovative solutions.
+Hello! I'm Mantas, a software engineer with a background in civil engineering and data analytics, enriched by significant customer and supplier relationship management in the retail sector. I graduated from the Makers Academy bootcamp, where I not only honed my software development skills but also developed a keen interest in software quality assurance. This experience equipped me with a strong foundation in software testing and development, proficient in tools like Postman, Cypress, Selenium, and Playwright, enhancing my capability to ensure software reliability from the ground up.
 
-Having sharpened my technical skills at Makers Academy, I am now eager to apply my software engineering acumen to solve real-world problems. The bootcamp experience reinforced my belief in the power of collaborative learning and iterative development. I am particularly interested in crafting clean, test-driven code to create intuitive user interfaces and efficient backend systems. As I venture deeper into the tech landscape, I am excited about embracing new challenges, learning from seasoned professionals, and contributing to projects that drive meaningful impact. Through my blend of engineering discipline and newfound software development skills, I am ready to contribute fresh perspectives and innovative solutions in my next professional chapter.
+My engineering degree laid the groundwork for my technical skills, but it was the dynamic and innovative realm of software development—and particularly the precision and impact of quality assurance—that truly captured my engineering spirit. This shift steered me towards a path filled with endless possibilities for creating innovative solutions. Having sharpened my technical and QA skills, I am eager to apply my expertise in software engineering to solve real-world problems. The bootcamp experience reinforced my belief in the power of collaborative learning and iterative development, and I am particularly keen on crafting clean, test-driven code to create intuitive user interfaces and robust backend systems.
+
+As I venture deeper into the tech landscape, I am excited about embracing new challenges, learning from seasoned professionals, and contributing to projects that drive meaningful impact. My blend of engineering discipline, software development, and quality assurance skills positions me to contribute fresh perspectives and innovative solutions in my next professional chapter.
 
 ## <a name="tech-skills">Tech Skills</a>
 
@@ -36,6 +38,7 @@ Having sharpened my technical skills at Makers Academy, I am now eager to apply 
   <img src="https://img.shields.io/badge/-PostgreSQL-3b3938?style=for-the-badge&logo=postgresql&logoColor=faf2ed&labelColor=282828">
   <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&logoColor=51A940&labelColor=282828">
   <img src="https://img.shields.io/badge/-Selenium-42b029?style=for-the-badge&logo=selenium&logoColor=42b029&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Playwright-c65b4d?style=for-the-badge&logo=playwright&logoColor=c65b4d&labelColor=282828">
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ffffff&labelColor=282828">
 </div>
 </p>
